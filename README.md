@@ -1,0 +1,1 @@
+# go_interface_exemplo_tutorial# go_interface_exemplo_tutorial
